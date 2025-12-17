@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Complete Python project",
+    "priority": "High",
+    "due_date": "2025-12-15",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  },
+  {
+    "description": "Study for exams",
+    "priority": "High",
+    "due_date": "2025-12-12",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  },
+  {
+    "description": "Buy groceries",
+    "priority": "Medium",
+    "due_date": "2025-12-11",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  },
+  {
+    "description": "Clean room",
+    "priority": "Low",
+    "due_date": "2025-12-10",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  },
+  {
+    "description": "Watch movie",
+    "priority": "Low",
+    "due_date": "2025-12-20",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  },
+  {
+    "description": "Movei",
+    "priority": "Medium",
+    "due_date": "",
+    "status": "Pending",
+    "created_date": "2025-12-10"
+  }
+]
